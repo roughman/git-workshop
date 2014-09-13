@@ -51,8 +51,8 @@ git add -p
 git checkout <branch name/commit/etc>
 	switches to that branch/commit/etc 
 	
-
-
+git revert <commit>
+	Reverses that commit by making another opposite commit 
 
 
 
