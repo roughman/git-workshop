@@ -54,8 +54,14 @@ git checkout <branch name/commit/etc>
 git revert <commit>
 	Reverses that commit by making another opposite commit 
 
+git branch
+	gives a list of all branches in the repository
+
 git branch <branch name>
 	Creates a new branch 
-	
+
+git merge <branch>
+	merge change om <branch> into current branch 
+
 
 
