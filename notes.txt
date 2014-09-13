@@ -48,6 +48,10 @@ git diff
 git add -p 
 	Lets us selectively stage changes 
 
+git checkout <branch name/commit/etc>
+	switches to that branch/commit/etc 
+	
+
 
 
 
