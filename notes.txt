@@ -63,5 +63,7 @@ git branch <branch name>
 git merge <branch>
 	merge change om <branch> into current branch 
 
+git remote add origin [url]
+	Add a git remote with the name origin 
 
 
