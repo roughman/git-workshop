@@ -64,6 +64,12 @@ git merge <branch>
 	merge change om <branch> into current branch 
 
 git remote add origin [url]
-	Add a git remote with the name origin 
+	Add a git remote with the name origin
+
+git push [remote] [branch]
+	Pushes commits on [branches] to [remove] server 
+
+git pull [remote] [branch]
+	Pulls commites on [remote] to our local [branch]  
 
 
