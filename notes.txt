@@ -54,6 +54,8 @@ git checkout <branch name/commit/etc>
 git revert <commit>
 	Reverses that commit by making another opposite commit 
 
-
+git branch <branch name>
+	Creates a new branch 
+	
 
 
